@@ -8,5 +8,5 @@ alias rmdir='rm -v -r'
 
 # -F: Añade de un caracter a cada nombre de fichero indicando el tipo de fichero. * Ejecutables, / directorios, @ enlaces
 # simbolicos
-alias ls='ls -F --group-directories-first'
+alias ls='ls --color -F --group-directories-first'
 
