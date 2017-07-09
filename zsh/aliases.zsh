@@ -10,3 +10,4 @@ alias rmdir='rm -v -r'
 # simbolicos
 alias ls='ls --color -F --group-directories-first'
 
+# Alias rsync
