@@ -11,3 +11,8 @@ alias rmdir='rm -v -r'
 alias ls='ls --color -F --group-directories-first'
 
 # Alias rsync
+
+
+# Alias apt
+
+alias apt='sudo apt'
